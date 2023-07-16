@@ -1,0 +1,97 @@
+.header,
+.header * {
+  box-sizing: border-box;
+}
+.header {
+  position: absolute;
+  inset: 0;
+}
+.menu {
+  width: 255px;
+  height: 15px;
+  position: absolute;
+  left: 946px;
+  top: 37px;
+  overflow: hidden;
+}
+.what-we-do {
+  color: #ffffff;
+  text-align: left;
+  font: 700 12px "Source Sans Pro", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: calc(50% - 7.5px);
+}
+.our-results {
+  color: #ffffff;
+  text-align: left;
+  font: 700 12px "Source Sans Pro", sans-serif;
+  position: absolute;
+  left: 102px;
+  top: calc(50% - 7.5px);
+}
+.contact-us {
+  color: #ffffff;
+  text-align: left;
+  font: 700 12px "Source Sans Pro", sans-serif;
+  position: absolute;
+  left: 200px;
+  top: calc(50% - 7.5px);
+}
+.logo {
+  position: absolute;
+  left: 200.61px;
+  top: 27.76px;
+  overflow: visible;
+}
+.lorem-ipsum-dolor-se {
+  color: #ffffff;
+  text-align: center;
+  font: 700 32px "Source Sans Pro", sans-serif;
+  position: absolute;
+  left: 300px;
+  top: calc(50% - -06.5px);
+}
+.lorem-ipsum-dolor-se-copy {
+  color: #ffffff;
+  text-align: center;
+  font: 700 16px "Source Sans Pro", sans-serif;
+  position: absolute;
+  left: 300px;
+  top: calc(50% - -50.5px);
+}
+.lorem-ipsum-dolor-si {
+  color: #ffffff;
+  text-align: center;
+  font: 400 16px/26px "Source Sans Pro", sans-serif;
+  position: absolute;
+  left: 300px;
+  top: calc(50% - -160.5px);
+  width: 637px;
+}
+.button {
+  width: 162px;
+  height: 44px;
+  position: absolute;
+  left: 500px;
+  top: 420px;
+  box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
+  overflow: hidden;
+}
+.button-background {
+  background: #ff6565;
+  border-radius: 22px;
+  width: 162px;
+  height: 44px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.call-to-action {
+  color: #ffffff;
+  text-align: center;
+  font: 700 14px "Source Sans Pro", sans-serif;
+  position: absolute;
+  left: 31px;
+  top: calc(50% - 9px);
+}

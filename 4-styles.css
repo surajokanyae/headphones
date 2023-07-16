@@ -1,0 +1,570 @@
+.body {
+  padding: 20px;
+}
+
+.header,
+.header * {
+  box-sizing: border-box;
+}
+.header {
+  display: flex;
+  position: absolute;
+  inset: 0;
+  padding: 20px;
+}
+.menu {
+  width: 255px;
+  height: 15px;
+  position: absolute;
+  left: 946px;
+  top: 37px;
+  overflow: hidden;
+}
+.what-we-do {
+  color: #ffffff;
+  text-align: left;
+  font: 700 12px "Source Sans Pro", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: calc(50% - 7.5px);
+}
+.our-results {
+  color: #ffffff;
+  text-align: left;
+  font: 700 12px "Source Sans Pro", sans-serif;
+  position: absolute;
+  left: 102px;
+  top: calc(50% - 7.5px);
+}
+.contact-us {
+  color: #ffffff;
+  text-align: left;
+  font: 700 12px "Source Sans Pro", sans-serif;
+  position: absolute;
+  left: 200px;
+  top: calc(50% - 7.5px);
+}
+.logo {
+  position: absolute;
+  left: 200.61px;
+  top: 27.76px;
+  overflow: visible;
+}
+.main-part,
+.main-part * {
+  box-sizing: border-box;
+}
+.main-part {
+  position: absolute;
+  inset: 0;
+}
+.background {
+  width: 1400px;
+  height: 800px;
+  position: static;
+}
+.mask {
+  background: #d8d8d8;
+  border-style: solid;
+  border-color: #979797;
+  border-width: 1px;
+  width: 1400px;
+  height: 800px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.object {
+  width: 100px;
+  height: 100px;
+  position: static;
+}
+.bitmap {
+  width: 1400px;
+  height: 933px;
+  position: absolute;
+  left: 0px;
+  top: -133px;
+}
+.bitmap2 {
+  background: radial-gradient(
+      closest-side,
+      rgba(41, 48, 61, 0) 0%,
+      rgba(7, 22, 41, 1) 100%
+    ),
+    linear-gradient(to left, #000000, #000000);
+  width: 1400px;
+  height: 933px;
+  position: absolute;
+  left: 0px;
+  top: -133px;
+}
+.text {
+  width: 637px;
+  height: 313px;
+  position: absolute;
+  left: 382px;
+  top: 372px;
+  overflow: hidden;
+}
+.lorem-ipsum-dolor-se {
+  color: #ffffff;
+  text-align: center;
+  font: 700 32px "Source Sans Pro", sans-serif;
+  position: absolute;
+  left: 29px;
+  top: calc(50% - 156.5px);
+}
+.lorem-ipsum-dolor-se-copy {
+  color: #ffffff;
+  text-align: center;
+  font: 700 16px "Source Sans Pro", sans-serif;
+  position: absolute;
+  left: 141px;
+  top: calc(50% - 116.5px);
+}
+.lorem-ipsum-dolor-si {
+  color: #ffffff;
+  text-align: center;
+  font: 700 16px "Source Sans Pro", sans-serif;
+  position: absolute;
+  left: 141px;
+  top : calc(50% - -156.5px);
+}
+.button {
+  width: 162px;
+  height: 44px;
+  position: absolute;
+  left: 237px;
+  top: 100px;
+  box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
+  overflow: hidden;
+}
+.button-background {
+  background: #ff6565;
+  border-radius: 22px;
+  width: 162px;
+  height: 44px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.call-to-action {
+  color: #ffffff;
+  text-align: center;
+  font: 700 14px "Source Sans Pro", sans-serif;
+  position: absolute;
+  left: 31px;
+  top: calc(50% - 9px);
+}
+
+.part-2-icons,
+.part-2-icons * {
+  box-sizing: border-box;
+}
+.part-2-icons {
+  position: absolute;
+  inset: 0;
+}
+.ic-01 {
+  width: 207px;
+  height: 180px;
+  position: absolute;
+  left: 200px;
+  top: 1204px;
+  overflow: hidden;
+}
+.lorem-ipsum-dolor-si {
+  color: #071629;
+  text-align: center;
+  font: 400 14px/26px "Source Sans Pro", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: calc(50% - -38px);
+  width: 207px;
+}
+.lorem-ipsum {
+  color: #071629;
+  text-align: center;
+  font: 600 18px/26px "SourceSansPro", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: calc(50% - 1px);
+  width: 207px;
+}
+.sound-frecuency {
+  position: absolute;
+  left: 56px;
+  top: 0.02px;
+  overflow: visible;
+}
+.ic-02 {
+  width: 207px;
+  height: 193px;
+  position: absolute;
+  left: 465px;
+  top: 1191px;
+  overflow: hidden;
+}
+.lorem-ipsum-dolor-si2 {
+  color: #071629;
+  text-align: center;
+  font: 400 14px/26px "Source Sans Pro", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: calc(50% - -44.5px);
+  width: 207px;
+}
+.lorem-ipsum2 {
+  color: #071629;
+  text-align: center;
+  font: 600 18px/26px "SourceSansPro", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: calc(50% - -5.5px);
+  width: 207px;
+}
+.video {
+  position: absolute;
+  left: 72px;
+  top: 0px;
+  overflow: visible;
+}
+.ic-03 {
+  width: 207px;
+  height: 179px;
+  position: absolute;
+  left: 730px;
+  top: 1205px;
+  overflow: hidden;
+}
+.lorem-ipsum-dolor-si3 {
+  color: #071629;
+  text-align: center;
+  font: 400 14px/26px "Source Sans Pro", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: calc(50% - -37.5px);
+  width: 207px;
+}
+.lorem-ipsum3 {
+  color: #071629;
+  text-align: center;
+  font: 600 18px/26px "SourceSansPro", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: calc(50% - 1.5px);
+  width: 207px;
+}
+.music {
+  position: absolute;
+  left: 78px;
+  top: 0px;
+  overflow: visible;
+}
+.ic-04 {
+  width: 207px;
+  height: 180px;
+  position: absolute;
+  left: 995px;
+  top: 1204px;
+  overflow: hidden;
+}
+.hearing {
+  position: absolute;
+  left: 74px;
+  top: 0px;
+  overflow: visible;
+}
+.part-3-dark,
+.part-3-dark * {
+  box-sizing: border-box;
+}
+.part-3-dark {
+  width: 1400px;
+  height: 650px;
+  position: relative;
+  overflow: hidden;
+}
+.background {
+  position: absolute;
+  inset: 0;
+}
+.mask {
+  background: #d8d8d8;
+  width: 1400px;
+  height: 650px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.object {
+  width: 100px;
+  height: 100px;
+  position: static;
+}
+.bitmap {
+  width: 1400px;
+  height: 1030px;
+  position: absolute;
+  left: 0px;
+  top: -199px;
+}
+.bitmap2 {
+  background: radial-gradient(
+      closest-side,
+      rgba(16, 25, 41, 0.47) 0%,
+      rgba(7, 22, 41, 1) 100%
+    ),
+    linear-gradient(to left, #000000, #000000);
+  width: 1400px;
+  height: 1030px;
+  position: absolute;
+  left: 0px;
+  top: -199px;
+}
+.our-results-speak-fo {
+  color: #ffffff;
+  text-align: center;
+  font: 600 32px "SourceSansPro", sans-serif;
+  position: absolute;
+  left: 477px;
+  top: calc(50% - 184px);
+}
+.lorem-ipsum-dolor-si-copy-2 {
+  color: #ffffff;
+  text-align: center;
+  font: 400 16px/26px "Source Sans Pro", sans-serif;
+  position: absolute;
+  left: 382px;
+  top: calc(50% - 104px);
+  width: 637px;
+}
+.dot-1 {
+  width: 190px;
+  height: 190px;
+  position: absolute;
+  left: 207px;
+  top: 381px;
+  overflow: hidden;
+}
+.polygon-copy {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.lorem-ipsum-dolor {
+  color: #ffffff;
+  text-align: center;
+  font: 400 14px/26px "Source Sans Pro", sans-serif;
+  position: absolute;
+  left: 40px;
+  top: calc(50% - -21px);
+}
+._2 {
+  color: #ffffff;
+  text-align: center;
+  font: 700 46px/26px "Source Sans Pro", sans-serif;
+  position: absolute;
+  left: 51px;
+  top: calc(50% - 25px);
+}
+.dot-2 {
+  width: 190px;
+  height: 190px;
+  position: absolute;
+  left: 473px;
+  top: 381px;
+  overflow: hidden;
+}
+.polygon {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.dot-3 {
+  width: 190px;
+  height: 190px;
+  position: absolute;
+  left: 739px;
+  top: 381px;
+  overflow: hidden;
+}
+.polygon-copy-2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.dot-4 {
+  width: 190px;
+  height: 190px;
+  position: absolute;
+  left: 1005px;
+  top: 381px;
+  overflow: hidden;
+}
+.polygon-copy-22 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.part-4-contact-us,
+.part-4-contact-us * {
+  box-sizing: border-box;
+}
+.part-4-contact-us {
+  width: 335px;
+  height: 373px;
+  position: relative;
+  overflow: hidden;
+}
+.contact-us {
+  color: #071629;
+  text-align: center;
+  font: 600 32px "SourceSansPro", sans-serif;
+  position: absolute;
+  left: 94px;
+  top: calc(50% - 186.5px);
+}
+.input-1 {
+  width: 335px;
+  height: 29px;
+  position: absolute;
+  left: 0px;
+  top: 96px;
+  overflow: hidden;
+}
+.name {
+  color: #071629;
+  text-align: left;
+  font: 600 14px "SourceSansPro", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: calc(50% - 14.5px);
+}
+.rectangle {
+  background: #071629;
+  opacity: 0.1745256632566452;
+  width: 335px;
+  height: 1px;
+  position: absolute;
+  left: 0px;
+  top: 28px;
+}
+.input-2 {
+  width: 335px;
+  height: 29px;
+  position: absolute;
+  left: 0px;
+  top: 170px;
+  overflow: hidden;
+}
+.email {
+  color: #071629;
+  text-align: left;
+  font: 600 14px "SourceSansPro", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: calc(50% - 14.5px);
+}
+.input-3 {
+  width: 335px;
+  height: 29px;
+  position: absolute;
+  left: 0px;
+  top: 244px;
+  overflow: hidden;
+}
+.your-message {
+  color: #071629;
+  text-align: left;
+  font: 600 14px "SourceSansPro", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: calc(50% - 14.5px);
+}
+.button {
+  width: 162px;
+  height: 44px;
+  position: absolute;
+  left: 86px;
+  top: 329px;
+  overflow: hidden;
+}
+.button-background {
+  background: #ff6565;
+  border-radius: 22px;
+  width: 162px;
+  height: 44px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
+}
+.call-to-action {
+  color: #ffffff;
+  text-align: center;
+  font: 700 14px "Source Sans Pro", sans-serif;
+  position: absolute;
+  left: 31px;
+  top: calc(50% - 9px);
+}
+.part-5-footer,
+.part-5-footer * {
+  box-sizing: border-box;
+}
+.part-5-footer {
+  width: 1400px;
+  height: 249px;
+  position: relative;
+  overflow: hidden;
+}
+.footer-background {
+  background: #071629;
+  width: 1400px;
+  height: 249px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.headphones-2020 {
+  color: #ffffff;
+  text-align: left;
+  font: 400 12px "Source Sans Pro", sans-serif;
+  opacity: 0.3516787588596344;
+  position: absolute;
+  left: 651px;
+  top: calc(50% - -70.5px);
+}
+.logo {
+  position: absolute;
+  left: 199.61px;
+  top: 91.76px;
+  overflow: visible;
+}
+.social-icons {
+  position: absolute;
+  inset: 0;
+}
+.instagram {
+  position: absolute;
+  left: 1170px;
+  top: 90px;
+  overflow: visible;
+}
+.twitter {
+  position: absolute;
+  left: 1120px;
+  top: 90px;
+  overflow: visible;
+}
+.facebook {
+  position: absolute;
+  left: 1070px;
+  top: 90px;
+  overflow: visible;
+}
